@@ -3,4 +3,4 @@ Git is free software.
 Git has a mutable index called stage.
 Git tracks changes.
 stupid boss
-creating a new branch is quick & simple
+creating a new branch is quick and simple finally
